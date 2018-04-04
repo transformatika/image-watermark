@@ -1,6 +1,6 @@
 {
 	"name"            : "image-watermark-2",
-	"version"         : "0.0.8",
+	"version"         : "0.0.9",
 	"description"     : "A powerful watermark library for image and pdf files based on ImageMagick for node.js",
 	"main" 			  : "./watermark.js",
 	"dependencies"    : {
