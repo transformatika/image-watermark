@@ -169,9 +169,10 @@ function _parseOptions(imageData, source, options) {
     	args.push('-font');
     	args.push(font);
     }
-    args.push('-quality 100')
-    args.push('-density 300')
-    args.push('-trim')
+    args.push('-quality');
+    args.push('100');
+    args.push('-density');
+    args.push('96');
     args.push('-fill');
     args.push(fillColor);  // color of watermark text
     args.push('-pointsize');
